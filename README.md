@@ -1,6 +1,6 @@
-# ✨ ¡Hola! Soy [jonathan fuentes ] 👋
+# ✨ ¡Hola! Soy jonathan fuentes  👋
 
-Soy un **[Desarrollador Backend,frontend** con pasión por **[Tu Interés Principal: la Inteligencia Artificial, el Cloud Computing, el desarrollo web..]**.
+Soy un **Desarrollador Backend,frontend** con pasión por **[Tu Interés Principal: la Inteligencia Artificial, el Cloud Computing, el desarrollo web..**.
 
 Actualmente, estoy explorando y aplicando soluciones de **Machine Learning y Deep Learning** dentro del robusto ecosistema **.NET**.
 
@@ -34,9 +34,9 @@ Mi foco está en la **implementación de soluciones de IA prácticas y estables*
 
 | Enlace | Descripción |
 | :--- | :--- |
-| 🔗 **LinkedIn** | [Tu Enlace de LinkedIn] |
-| 📧 **Correo** | [Tu Correo Electrónico] |
-| 🌐 **Sitio Web/Blog** | [Tu Blog o Sitio Web Personal] |
+| 🔗 **LinkedIn** |              |
+| 📧 **Correo** |                  |
+| 🌐 **Sitio Web/Blog** |              |
 
 ---
 

@@ -1,12 +1,12 @@
-# ✨ ¡Hola! Soy jonathan fuentes  👋
+# ¡Hola! Soy jonathan fuentes 
 
-Soy un **Desarrollador Backend,frontend** con pasión por **[Tu Interés Principal: la Inteligencia Artificial, el Cloud Computing, el desarrollo web..**.
+Soy un Desarrollador Backend,frontend** con pasión por **[Tu Interés Principal: la Inteligencia Artificial, el Cloud Computing, el desarrollo web..
 
-Actualmente, estoy explorando y aplicando soluciones de **Machine Learning y Deep Learning** dentro del robusto ecosistema **.NET**.
+Actualmente, estoy explorando y aplicando soluciones de **Machine Learning y Deep Learning** dentro del robusto ecosistema .NET.
 
 ---
 
-## 💻 Stack Tecnológico y Herramientas
+ Stack Tecnológico y Herramientas
 
 | Categoría | Tecnologías y Herramientas |
 | :--- | :--- |
@@ -18,19 +18,19 @@ Actualmente, estoy explorando y aplicando soluciones de **Machine Learning y Dee
 
 ---
 
-## 🧠 Enfoque y Proyectos de IA
+ Enfoque y Proyectos de IA
 
 Mi foco está en la **implementación de soluciones de IA prácticas y estables** en producción:
 
 - **ML Clásico:** Modelos interpretables para problemas empresariales con datos estructurados (Clasificación, Regresión).
 - **Deep Learning:** Integración de modelos complejos de visión y lenguaje en aplicaciones estables.
-- **Estrategia (MLOps):** Optimizo el flujo de trabajo separando el entrenamiento (en Python) de la ejecución/inferencia (en .NET con **ML.NET + ONNX**).
+- **Estrategia (MLOps):** Optimizo el flujo de trabajo separando el entrenamiento (en Python) de la ejecución/inferencia (en .NET con ML.NET ).
 
 > "Busco combinar la flexibilidad del ecosistema de IA con la robustez del entorno empresarial .NET."
 
 ---
 
-## 🤝 Conectemos
+Conectemos
 
 | Enlace | Descripción |
 | :--- | :--- |
@@ -38,8 +38,6 @@ Mi foco está en la **implementación de soluciones de IA prácticas y estables*
 | 📧 **Correo** |                  |
 | 🌐 **Sitio Web/Blog** |              |
 
----
 
-⭐ Mis repositorios demuestran mi pasión por el código limpio y el aprendizaje continuo. ¡Échale un vistazo!
 
 
